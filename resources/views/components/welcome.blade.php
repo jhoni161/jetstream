@@ -6,10 +6,10 @@
     </h1>
 
     <p class="mt-6 text-gray-500 leading-relaxed">
-        Laravel Jetstream provides a beautiful, robust starting point for your next Laravel application. Laravel is designed
-        to help you build your application using a development environment that is simple, powerful, and enjoyable. We believe
-        you should love expressing your creativity through programming, so we have spent time carefully crafting the Laravel
-        ecosystem to be a breath of fresh air. We hope you love it.
+        Laravel Jetstream proporciona un hermoso y sólido punto de partida para su próxima aplicación de Laravel. Laravel está diseñado
+        para ayudarlo a construir su aplicación utilizando un entorno de desarrollo que es simple, poderoso y agradable. Creemos
+        debería amar expresar su creatividad a través de la programación, por lo que hemos dedicado tiempo a crear cuidadosamente el Laravel
+        ecosistema para ser un soplo de aire fresco. Esperamos que te guste.
     </p>
 </div>
 
